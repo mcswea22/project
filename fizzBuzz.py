@@ -25,9 +25,6 @@ def fizz_buzz(n):
             # Add the current number as a string to the result list
             result.append(str(i))
     return result
-##hello alanna!
 n = 10
 result = fizz_buzz(n)
 print(' '.join(result))
-
-#hello katie!
