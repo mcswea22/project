@@ -28,10 +28,3 @@ def fizz_buzz(n):
 n = 10
 result = fizz_buzz(n)
 print(' '.join(result))
-
-
-
-
-hah
-
-hi katie 
