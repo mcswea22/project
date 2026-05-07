@@ -1,5 +1,2 @@
-name = input("What is your name? ")
-print("Hello, " + name + "!")
+# now it is just a comment 
 
-
-# This file will print my name 
